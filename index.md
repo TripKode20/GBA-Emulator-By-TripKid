@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>GBA Emu | Trip</title>
+        GBA Emu | Trip
         <meta charset="UTF-8">
     </head>
     <body>
